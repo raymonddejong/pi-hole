@@ -98,7 +98,6 @@ office.net
 cdn.onenote.net
 ad.atdmt.com
 s.ytimg.com
-www.youtube.com
 ajax.aspnetcdn.com
 apis.live.net
 cdn.optimizely.com
@@ -299,3 +298,4 @@ azure-apim.net
 flow.microsoft.com
 powerapps.com
 autodiscover.onmicrosoft.com
+mobile.events.data.trafficmanager.net
