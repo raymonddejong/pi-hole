@@ -1,2 +1,2 @@
 # pi-hole
-Repository for PI-Hole files like whitelist, blacklists etc.
+Repository for Pi-hole files like whitelist, blacklists etc.
